@@ -1,2 +1,2 @@
-usename:koki-ho
+usename:koki-
 password:****
